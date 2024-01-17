@@ -1,2 +1,22 @@
-hola de nuevo rama nueva XDDDDD
-otro cambio
+git init
+git status
+git add .
+git commit -a -m 'primer commit XD'
+git branch ((((para ver que ramas existen)))))
+git branch primeraRama
+crear rama
+git checkout primeraRama
+moverse de creada
+git checkout -b segundaRama
+para crear y moverse a una rama
+git --h
+para decir help y que te diga los comandos
+git log
+para ver los commits anteriores
+git merge primeraRama
+git reset --hard
+para borrar los cambios
+~
+altgr 4
+moverse entre commits
+git reset HEAD~1
